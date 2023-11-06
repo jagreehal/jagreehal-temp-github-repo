@@ -1,5 +1,7 @@
 # jagreehal-temp-npm-package
 
+This is a playground for creating a temporary npm package using commitzen.
+
 ## Contributing to Project
 
 Please follow these steps to contribute to the project:
