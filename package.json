@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "cz": "git-cz",
+    "commit": "git-cz",
     "test": "echo \"Error: no test specified\" && exit 0"
   },
   "keywords": [],
@@ -18,11 +18,14 @@
   },
   "config": {
     "commitizen": {
-      "path": "./node_modules/cz-conventional-changelog"
+      "path": "./node_modules/@digitalroute/cz-conventional-changelog-for-jira"
     }
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jagreehal/temp-npm-package.git"
+  },
+  "dependencies": {
+    "@digitalroute/cz-conventional-changelog-for-jira": "^8.0.1"
   }
 }
