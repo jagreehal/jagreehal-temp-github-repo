@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/jagreehal/jagreehal-temp-github-repo/compare/v1.1.0...v1.2.0) (2023-11-06)
+
+
+### Features
+
+* added emoji ([da71758](https://github.com/jagreehal/jagreehal-temp-github-repo/commit/da71758255e7d10d3c421fede859dc26a4d788f7))
+
 ## [1.1.0](https://github.com/jagreehal/jagreehal-temp-github-repo/compare/v1.0.1...v1.1.0) (2023-11-06)
 
 
